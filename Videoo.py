@@ -1,6 +1,5 @@
 from tkinter import *
 from pytube import YouTube
-from tkinter import filedialog 
 
 # Settings
 FONT = "FixedSys" # FixedSys # System # Helvetica
